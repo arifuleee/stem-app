@@ -1,0 +1,6 @@
+reflex==0.5.7
+reflex-local-auth
+fastapi
+uvicorn
+boto3
+
