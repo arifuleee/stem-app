@@ -3,4 +3,5 @@ reflex-local-auth
 fastapi
 uvicorn
 boto3
+mysqlclient
 
