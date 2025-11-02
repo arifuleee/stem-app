@@ -1,4 +1,4 @@
-reflex==0.5.7
+reflex==0.8.14.post1
 reflex-local-auth
 fastapi
 uvicorn
